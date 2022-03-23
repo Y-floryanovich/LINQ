@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3d4831e-cf12-4fef-98de-a5f1d9b1df2a": {
+      "ProjectGuid": "f3d4831e-cf12-4fef-98de-a5f1d9b1df2a",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "1186cf19-43a2-466f-bf7c-8a8401908d8e": {
+      "ProjectGuid": "1186cf19-43a2-466f-bf7c-8a8401908d8e",
+      "DisplayName": "Task1.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

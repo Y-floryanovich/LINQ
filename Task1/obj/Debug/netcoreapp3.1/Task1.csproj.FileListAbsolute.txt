@@ -1,0 +1,10 @@
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\.NET Basic\LINQ\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\.NET Basic\LINQ\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\.NET Basic\LINQ\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\.NET Basic\LINQ\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
